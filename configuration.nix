@@ -182,6 +182,7 @@
     # cl
     waybar
     eww
+    tree
     swww
     dunst
     libnotify
