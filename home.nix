@@ -1,8 +1,8 @@
 { config, pkgs, ... }:
 
 {
-	home.username = "username";
-	home.homeDirectory = "/home/user";
+	home.username = "biggusdickus";
+	home.homeDirectory = "/home/biggusdickus";
 	home.stateVersion = "24.11";
 
 	programs.bash = {
